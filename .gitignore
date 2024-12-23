@@ -1,0 +1,67 @@
+movieService/target
+# General OS-specific files
+.DS_Store
+Thumbs.db
+
+# General IDE/Editor-specific files
+.idea/
+*.iml
+*.swp
+.vscode/
+*.log
+
+# Node.js (React) specific files
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/build/
+
+# Spring Boot specific files
+/target/
+*.jar
+*.war
+*.ear
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+*.tmp
+
+# Maven specific files
+.mvn/
+.settings/
+dependency-reduced-pom.xml
+
+# Eclipse specific files
+.classpath
+.project
+.settings/
+
+# IntelliJ specific files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# Linux specific files
+*~
+
+# Environment variables and secret files
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+.env.*.local
+*.key
+*.pem
