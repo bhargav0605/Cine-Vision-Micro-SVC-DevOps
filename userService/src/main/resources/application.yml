@@ -1,6 +1,5 @@
-# Make everything from env variables only
 server:
-  port: 0
+  port: 8201
 spring:
   application:
     name: userService
