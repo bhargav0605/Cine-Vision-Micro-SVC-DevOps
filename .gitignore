@@ -1,8 +1,9 @@
 movieService/target
+userService/target
 # General OS-specific files
 .DS_Store
 Thumbs.db
-
+target
 # General IDE/Editor-specific files
 .idea/
 *.iml
